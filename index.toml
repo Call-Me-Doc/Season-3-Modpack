@@ -161,6 +161,11 @@ hash = "26c1620180c65d816280a96354065a9124696e71c1795b4a020c925cef21e271"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "72cb09c1b9cd9d3e8b837b8c226b40247ea6785a5049bb3a12162501103b8259"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "3f09bb38efde1a93e272c206e11bbf9aed4b70dfea20a346f53c4e7da5080a82"
 metafile = true
