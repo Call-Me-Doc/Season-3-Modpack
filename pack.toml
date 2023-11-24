@@ -1,0 +1,13 @@
+name = "Origins Season 3 Pack"
+author = "John Cena"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3a1e7e865ecc01f958ece0d2425e283f2aa000823797f61540f5a26e7a606bfb"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"

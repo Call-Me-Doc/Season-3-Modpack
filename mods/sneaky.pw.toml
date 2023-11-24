@@ -1,0 +1,13 @@
+name = "Sneaky!"
+filename = "sneaky-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VwYfeHTP/versions/WOagc669/sneaky-1.2.jar"
+hash-format = "sha1"
+hash = "a0ffdd8f8e5b4ebc90b63408d51d6e5be9c28478"
+
+[update]
+[update.modrinth]
+mod-id = "VwYfeHTP"
+version = "WOagc669"

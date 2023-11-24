@@ -1,0 +1,13 @@
+name = "More Potions"
+filename = "1.20-more-potions-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umoF0Wz9/versions/LKGh2H2h/1.20-more-potions-2.0.0.jar"
+hash-format = "sha1"
+hash = "a0bcd137ed5e82a14f462e08e3da9e0461e9842c"
+
+[update]
+[update.modrinth]
+mod-id = "umoF0Wz9"
+version = "LKGh2H2h"
