@@ -374,3 +374,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "2592fb204aa109c4174ccc43bd406af93a883c564e0fdb646ed43bcbac09668a"
