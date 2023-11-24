@@ -251,6 +251,11 @@ hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
 metafile = true
 
 [[files]]
+file = "mods/pettable.pw.toml"
+hash = "3071ef30d8389445c5409230d93ab676c8d89c8f876ae1a93bcf0218e4252607"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
