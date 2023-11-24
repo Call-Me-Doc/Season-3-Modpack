@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Origins_Season_3.mrpack?ex=65725e57&is=655fe957&hm=8227165e7aa6bcdd2b106edd96d97c048967dc9ea5be459f434a74a01f678ce3&"
-hash = "780d349d6c071e260ba1ce9886b3378ee2e700a66bb158d44b1b18cc757302af"
-
-[[files]]
-file = "README.md"
-hash = "fd002d5bbaf56ace4474680bd493bff8ba1c4189cd072a95cb28abefbc6a10a8"
-
-[[files]]
-file = "modrinth.index.json"
-hash = "c5d664a4d0f2cd69e3be9774d6b957f85bd146c69f9831c658940b5e09e1a5f1"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
