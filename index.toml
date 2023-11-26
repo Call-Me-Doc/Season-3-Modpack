@@ -276,6 +276,11 @@ hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "eaccaefdaa7736d3ebe7864e2af469e98ba7bc730ee63cff8b4db6659591c84c"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
 metafile = true
