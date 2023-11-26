@@ -81,16 +81,6 @@ hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
 
 [[files]]
-file = "mods/botania-fabric.pw.toml"
-hash = "012903507f12c5c8a7d5cd5c21c5ec5e977fc4e86b3b5df29ea5c761048fc978"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "67534fd268fae44283c843a44788772e92fd6df9d2eb6ccdf787627b0685a2e9"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "10a837b48e0ce1dfb36a0531a14254fea76599ddb65dc62a05b58e105237b7e2"
 metafile = true
@@ -273,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "eaccaefdaa7736d3ebe7864e2af469e98ba7bc730ee63cff8b4db6659591c84c"
 metafile = true
 
 [[files]]
