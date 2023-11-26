@@ -81,6 +81,16 @@ hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
 
 [[files]]
+file = "mods/botania-fabric.pw.toml"
+hash = "012903507f12c5c8a7d5cd5c21c5ec5e977fc4e86b3b5df29ea5c761048fc978"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "67534fd268fae44283c843a44788772e92fd6df9d2eb6ccdf787627b0685a2e9"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "10a837b48e0ce1dfb36a0531a14254fea76599ddb65dc62a05b58e105237b7e2"
 metafile = true
