@@ -126,6 +126,11 @@ hash = "a700b9ee3a43f831e4d71c1c6cd816813975b61ebdb962297e95d71026d1e056"
 metafile = true
 
 [[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "517ea3cb8a741777bdaa702e18fb3b4550182f62be89705af081d0af1e322125"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
