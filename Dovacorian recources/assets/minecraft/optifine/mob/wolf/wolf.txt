@@ -1,2 +1,0 @@
-skins.1=5
-biomes.1=snowy_taiga
