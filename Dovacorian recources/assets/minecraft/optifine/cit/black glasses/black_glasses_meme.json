@@ -1,0 +1,89 @@
+{
+	"credit": "By puzzleRP",
+	"textures": {
+		"2": "item/black_glasses_meme/black_glasses_meme",
+		"particle": "item/black_glasses_meme/black_glasses_meme"
+	},
+	"elements": [
+		{
+			"from": [3, 2.4, 3],
+			"to": [13, 4.5, 3],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 2], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#2"},
+				"south": {"uv": [0, 2, 10, 4], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#2"},
+				"up": {"uv": [10, 0, 0, 0], "texture": "#2"},
+				"down": {"uv": [10, 0, 0, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [3, 3.5, 3],
+			"to": [3, 4.5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#2"},
+				"east": {"uv": [0, 4, 6, 5], "texture": "#2"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#2"},
+				"west": {"uv": [0, 5, 6, 6], "texture": "#2"},
+				"up": {"uv": [0, 6, 0, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#2"}
+			}
+		},
+		{
+			"from": [13, 3.5, 3],
+			"to": [13, 4.5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "texture": "#2"},
+				"east": {"uv": [0, 6, 6, 7], "texture": "#2"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#2"},
+				"west": {"uv": [6, 4, 12, 5], "texture": "#2"},
+				"up": {"uv": [0, 6, 0, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [96.79, 38.71, -9.42],
+			"translation": [1, -0.25, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [96.79, 38.71, -9.42],
+			"translation": [1, -0.25, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-7.45, 26.18, 1.22],
+			"translation": [-2.5, 5.5, 4.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-7.45, 26.18, 1.22],
+			"translation": [-2.5, 5.5, 4.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0]
+		},
+		"gui": {
+			"rotation": [-157.39, 34.61, -176.21],
+			"translation": [1, 4.25, 0]
+		},
+		"head": {
+			"translation": [0, 5, 1],
+			"scale": [1.34172, 1.55, 1.55]
+		},
+		"fixed": {
+			"translation": [0, 4, 4.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

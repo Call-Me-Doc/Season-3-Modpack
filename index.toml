@@ -116,6 +116,11 @@ hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
@@ -256,8 +261,18 @@ hash = "4791eb0b3e018e2d0b8f640432b466f3c0bff1a83a64ace5bffa617cc640cef2"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "acfbe6632469f78f299d341895817ee1b678b7c03d773631399f574d99f87fef"
 metafile = true
 
 [[files]]
@@ -288,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
 metafile = true
 
 [[files]]
@@ -333,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
 metafile = true
 
 [[files]]
@@ -406,6 +431,11 @@ hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "eb564fa72e6bd9df45a040554926e73c88c43f72b7293def016449199333a860"
 metafile = true
@@ -428,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
